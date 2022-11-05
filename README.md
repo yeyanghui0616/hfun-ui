@@ -76,7 +76,6 @@ import 'hfun-ui-vite/HButton/style.css'
 createApp(App).component(HButton.name, HButton).mount('#app')
 ```
 
-
 ## 🎨 相关链接
 
 - [官方文档](https://hfunteam.github.io/)
